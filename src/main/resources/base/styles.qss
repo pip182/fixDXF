@@ -1,0 +1,14 @@
+
+QPushButton {
+    font-size: 12pt
+}
+
+QLabel#Beans {
+    font-size: 12pt;
+}
+
+QToolTip {
+    font-size: 11pt;
+    border: black solid 1px;
+    background: white;
+}
